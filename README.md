@@ -41,3 +41,12 @@ program for seasons
 program for scramble
 day 5
 program for space
+program for bonus
+program for least numbers
+program for mathematics 
+program for peak 
+program for triangular
+program for longest substring
+program for chess board
+program for shuffle
+program for reverse word
